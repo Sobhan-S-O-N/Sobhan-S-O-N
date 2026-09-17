@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://github.com/Sobhan-S-O-N">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Sobhan_S_O_N" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Sobhan_S_O_N" alt="Hello! I&#39;m Sobhan_S_O_N" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=looking%20for%20future()" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
