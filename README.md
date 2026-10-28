@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **c# and 🍵**  
+🌱 &nbsp;working on project veyna and school exams
 ⚡ &nbsp;Fun fact: **I hate coffee☕**
 
 ### 🛠️ Tech Stack
